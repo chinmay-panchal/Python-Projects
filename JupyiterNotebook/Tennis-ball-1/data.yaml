@@ -1,0 +1,17 @@
+names:
+- Tennis Ball
+- Tennis ball
+- Tennis racket
+- Tennis-Ball
+- person
+- tennis-ball
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: tennis-ball-8bsra-dryop
+  url: https://universe.roboflow.com/tennis-ball-workspace/tennis-ball-8bsra-dryop/dataset/1
+  version: 1
+  workspace: tennis-ball-workspace
+test: ../test/images
+train: ../train/images
+val: ../valid/images
